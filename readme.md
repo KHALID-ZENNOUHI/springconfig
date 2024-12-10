@@ -1,6 +1,4 @@
-# Creating a README file with all the questions included along with their answers.
 
-full_readme_content = """
 # **Spring Framework - Questions et Réponses**
 
 ## **Spring Framework**
